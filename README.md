@@ -78,4 +78,4 @@ Command :
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Ver [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la Licencia MIT. Ver [LICENSE](LICENSE.txt) para más detalles.
